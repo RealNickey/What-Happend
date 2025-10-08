@@ -3,13 +3,13 @@
 ![What Happend Banner](https://github.com/user-attachments/assets/6cc9dfea-da1f-4351-945c-6d770174df0d)
 
 ## 🚀 TL;DR  
-*Your crush just texted you. You've typed 47 different responses and deleted them all. This app is your therapy.*
+*Fell asleep and missed 487 group chat messages? Copy-paste the chaos and let AI catch you up.*
 
 ## 🤔 What Actually Is This?
 
-We've all been there. You get a text message and suddenly forget how to human. Should you be funny? Flirty? Professional? Your brain short-circuits, your palms get sweaty, and you're googling "how to respond to 'hey' without seeming desperate."
+We've all been there. You go to sleep for 8 hours and wake up to a notification nightmare. Your group chat has exploded with inside jokes, plans you weren't part of, and someone's relationship drama. Scrolling through hundreds of messages while half-awake? Nightmare fuel.
 
-**What Happend** (yes, we intentionally misspelled "Happened" because we're quirky like that) is an AI-powered text message response generator that takes your overthinking to the next level—by outsourcing it to Google's Gemini AI. Simply paste any text message, choose your vibe, and let artificial intelligence do the social anxiety for you.
+**What Happend** (yes, we intentionally misspelled "Happened" because we're quirky like that) is an AI-powered  group chat analyzer that takes your FOMO to the next level by outsourcing it to Google's Gemini. Simply copy-paste your  chat export, choose your vibe, and let artificial intelligence decode what you missed while you were dreaming.
 
 Perfect for:
 - 💘 Overthinkers who've rewritten "sounds good" 18 times
@@ -25,8 +25,7 @@ Perfect for:
 - **Analysis Mode** - Overanalyze messages like a detective investigating a crime scene (spoiler: "haha" with no punctuation means they hate you)
 - **Beautiful UI** - Gorgeous flickering grid background so you look professional while panicking about a text
 - **Expandable Tabs** - Smooth animations that make your indecisiveness look intentional
-- **Real-time Processing** - Get AI responses faster than you can type "is this too much?"
-
+- 
 ## 🧑‍💻 How To Install?
 
 ### Prerequisites
@@ -54,7 +53,7 @@ Perfect for:
    ```
 
 4. **Open your browser:**
-   Navigate to `http://localhost:5173` and witness your salvation
+   Navigate to `http://localhost:5173` 
 
 ### Backend Setup (The Brain)
 
@@ -77,11 +76,6 @@ Perfect for:
 4. **Start the backend server:**
    ```bash
    npm start
-   ```
-   
-   Or for development with hot reload:
-   ```bash
-   npm run dev
    ```
 
 5. **Configure frontend API URL:**
@@ -121,7 +115,7 @@ Perfect for:
 - **ShadcnUI** - Pre-built components so we didn't have to think too hard
 - **Framer Motion** - Smooth animations that hide your existential dread
 - **Express.js** - Backend that handles your overthinking
-- **Google Gemini AI** - The real MVP doing all the heavy lifting
+- **Google Gemini AI** - Cuz its free
 - **Lucide Icons** - Pretty icons for pretty people
 
 ## 📁 Project Structure
@@ -160,27 +154,19 @@ Found a bug? Want to add a "Passive-Aggressive" mode? Contributions are welcome!
 5. Open a Pull Request
 6. Overthink whether your PR description is good enough
 
-## ⚠️ Disclaimer
-
-- This app uses AI. AI can be wrong. Don't blame us if it generates "hey bestie 💅✨" when you meant to be professional.
-- Not responsible for relationships ruined by algorithmic flirting
-- The AI doesn't actually know what they meant—it's just really good at pretending
-- If you're using Analysis mode on "k", you might need actual therapy, not AI
-
 ## 🐛 Known Issues (aka Features)
 
-- Sometimes generates responses that are *too* smooth (prepare for high expectations)
 - May cause you to question whether AI is better at texting than you (it probably is)
 - No "Desperately Professional" mode yet (coming soon™)
 - The typo in "Happend" is intentional and we're sticking to it
 
 ## 📝 License
 
-This project is open source and available under the MIT License. Use it responsibly. Or don't. We're not your mom.
+This project is open source and available under the MIT License. Use it responsibly. Or don't.
 
 ## 🙏 Credits
 
-Built with love, anxiety, and way too much caffeine by someone who definitely needed this app themselves.
+Built with love, anxiety,spotify and way too much water by someone who definitely needed this app themselves.
 
 Special thanks to:
 - Google Gemini AI for being smarter than all of us
@@ -189,14 +175,11 @@ Special thanks to:
 
 ## 💬 Final Words
 
-Remember: If you're using an AI to help you text, you're not alone. You're just efficiently outsourcing your social anxiety to cloud computing. And that's beautiful.
-
-Now go forth and text with confidence! (Or at least with AI-generated confidence!)
-
+Using AI to text? You're just outsourcing social anxiety to the cloud , what a time to be alive.
 ---
 
 <p align="center">
-   Made with ❤️ and 😰 by <a href="https://github.com/RealNickey">RealNickey</a>
+   Made with ❤️ and 🎵 by <a href="https://github.com/RealNickey">RealNickey</a>
 </p>
 
 <p align="center">
